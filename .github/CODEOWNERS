@@ -1,0 +1,8 @@
+# CODEOWNERS — https://docs.github.com/articles/about-code-owners
+# Later matches take precedence over earlier ones.
+
+# Default owner for everything in the repository
+*               @sunietsunny03-prog
+
+# Poster artwork
+/nandi-appa/    @sunietsunny03-prog
